@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int m,n;
-    cout<<"Enter high and low value:"<<endl;
+    cout<<"Enter high(n) and low(m) value:"<<endl;
     cin >> n >> m;
     for(int i=m; i<=n; i++){
         if (m >=100)
